@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\ConsoleAppDeikstra\ConsoleAppDeikstra\bin\Debug\ConsoleAppDeikstra.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ConsoleAppDeikstra\ConsoleAppDeikstra\bin\Debug\ConsoleAppDeikstra.exe
+c:\users\user\documents\visual studio 2017\Projects\ConsoleAppDeikstra\ConsoleAppDeikstra\bin\Debug\ConsoleAppDeikstra.pdb
+c:\users\user\documents\visual studio 2017\Projects\ConsoleAppDeikstra\ConsoleAppDeikstra\obj\Debug\ConsoleAppDeikstra.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\ConsoleAppDeikstra\ConsoleAppDeikstra\obj\Debug\ConsoleAppDeikstra.exe
+c:\users\user\documents\visual studio 2017\Projects\ConsoleAppDeikstra\ConsoleAppDeikstra\obj\Debug\ConsoleAppDeikstra.pdb
